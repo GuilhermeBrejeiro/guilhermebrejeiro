@@ -2,6 +2,7 @@
 <h3 align="center">Machine Learning Engineer at Boa Vista SCPC</h3>
 
 - :books: Graduated in Mechanical Engineering at [Centro Universitário da FEI](https://fei.edu.br/)
+- :books: AWS scholarship winner for the Machine Learning Engineer nanodegree at [Udacity](https://www.udacity.com/) (Graduated)
 - :book: Pursuing a Master's degree in Computer Science at [Universidade Federal do ABC](https://poscomp.ufabc.edu.br/)
 
 - 🌱 I’m currently learning **anything related to MLEnginer and MLOps (specially on GCP)**
