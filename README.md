@@ -16,7 +16,7 @@
 <a href="https://www.edx.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EdX.svg/640px-EdX.svg.png" alt="edx" width="40" height="40"/> </a>
 <a href="https://www.pluralsight.com" target="_blank"> <img src="https://w7.pngwing.com/pngs/560/589/png-transparent-farmington-amazon-com-pluralsight-technology-learning-technology-electronics-text-trademark-thumbnail.png" alt="pluralsight" width="40" height="40"/> </a>
 <a href="https://www.datacamp.com" target="_blank"> <img src="https://www.datacamp.com/datacamp-sq.png?v=20102020" alt="datacamp" width="40" height="40"/> </a>  
-  
+<a href="https://www.udemy.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/udemy_logo_icon_168372.png" alt="udemy" width="40" height="40"/> </a> <a href="https://www.alura.com.br" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1333609520849969161/hrA0M5ZG_400x400.jpg" alt="alura" width="40" height="40"/> </a> 
   
 </p>
 
