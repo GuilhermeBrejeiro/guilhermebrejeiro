@@ -12,14 +12,14 @@
 
 <h3 align="left">MOOCs at:</h3>
 <p align="left"> <a href="https://www.udacity.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/udacity.svg" alt="udacity" width="40" height="40"/> </a>
-<a href="https://www.coursera.com" target="_blank"> <img src="https://about.coursera.org/static/whiteC-ebcee57f469112d4f4c17dc1ae17c70d.svg" alt="coursera" width="40" height="40"/> </a>
+<a href="https://www.coursera.com" target="_blank"> <img src="https://img.melodylinhart.com/350-_-183-_-70-_-complementarytraining.net/wp-content/uploads/2014/10/coursera-social-logo.png" alt="coursera" width="40" height="40"/> </a>
 </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/guilhermebrejeiro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/guilhermebrejeiro/" height="30" width="40" /></a>
-<a href="https://kaggle.com/www.kaggle.com/guilhermebrejeiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="www.kaggle.com/guilhermebrejeiro" height="30" width="40" /></a>
+<a href="https://kaggle.com/www.kaggle.com/guilhermebrejeiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="www.kaggle.com/guilhermebrejeiro" height="30" width="120" /></a>
 </p>
 
 
