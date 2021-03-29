@@ -12,8 +12,12 @@
 
 <h3 align="left">MOOCs at:</h3>
 <p align="left"> <a href="https://www.udacity.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/udacity.svg" alt="udacity" width="40" height="40"/> </a>
-<a href="https://www.coursera.com" target="_blank"> <img src="https://img.melodylinhart.com/350-_-183-_-70-_-complementarytraining.net/wp-content/uploads/2014/10/coursera-social-logo.png" alt="coursera" width="60" height="40"/> </a>
-<a href="https://www.edx.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EdX.svg/640px-EdX.svg.png" alt="edx" width="50" height="40"/> </a>
+<a href="https://www.coursera.com" target="_blank"> <img src="https://img.melodylinhart.com/350-_-183-_-70-_-complementarytraining.net/wp-content/uploads/2014/10/coursera-social-logo.png" alt="coursera" width="40" height="40"/> </a>
+<a href="https://www.edx.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EdX.svg/640px-EdX.svg.png" alt="edx" width="40" height="40"/> </a>
+<a href="https://www.pluralsight.com" target="_blank"> <img src="https://w7.pngwing.com/pngs/560/589/png-transparent-farmington-amazon-com-pluralsight-technology-learning-technology-electronics-text-trademark-thumbnail.png" alt="pluralsight" width="40" height="40"/> </a>
+<a href="https://www.datacamp.com" target="_blank"> <img src="https://www.datacamp.com/datacamp-sq.png?v=20102020" alt="datacamp" width="40" height="40"/> </a>  
+  
+  
 </p>
 
 
