@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **anything related to MLEnginer and MLOps**
 
-- 👨‍💻 Some of projects are available at [https://guilhermebrejeiro.github.io/](https://guilhermebrejeiro.github.io/)
-
 - 📫 How to reach me **juanbre@gmail.com**
 
 
