@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Brejeiro</h1>
-<h3 align="center">Machine Learning Engineer at Boa Vista SCPC</h3>
+<h3 align="center">Machine Learning Engineer at Neon Pagamentos</h3>
 
 - :books: Graduated in Mechanical Engineering at [Centro Universitário da FEI](https://fei.edu.br/)
 - :book: Pursuing a Master's degree in Computer Science at [Universidade Federal do ABC](https://poscomp.ufabc.edu.br/)
