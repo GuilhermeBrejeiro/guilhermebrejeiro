@@ -2,11 +2,11 @@
 <h3 align="center">Machine Learning Engineer at Neon Pagamentos</h3>
 
 - :books: Graduated in Mechanical Engineering at [Centro Universitário da FEI](https://fei.edu.br/)
-- :book: Pursuing a Master's degree in Computer Science at [Universidade Federal do ABC](https://poscomp.ufabc.edu.br/)
+- :book: Master's degree in Computer Science at [Universidade Federal do ABC](https://poscomp.ufabc.edu.br/) (Not Finished)
 - :books: AWS scholarship winner for the Machine Learning Engineer nanodegree at [Udacity](https://www.udacity.com/) (Graduated)
 
 
-- 🌱 I’m currently learning **anything related to MLEnginer and MLOps**
+- 🌱 I’m currently learning **anything related to MLEnginer, MLOps and LLMs**
 
 - 📫 How to reach me **juanbre@gmail.com**
 
