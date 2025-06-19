@@ -6,7 +6,7 @@
 - :books: AWS scholarship winner for the Machine Learning Engineer nanodegree at [Udacity](https://www.udacity.com/) (Graduated)
 
 
-- 🌱 I’m currently learning **anything related to MLEnginer, MLOps and LLMs**
+- 🌱 I’m currently learning **anything related to MLEnginer, MLOps and AI**
 
 - 📫 How to reach me **juanbre@gmail.com**
 
